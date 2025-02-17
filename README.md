@@ -16,7 +16,15 @@ A simple **Employee Management System** implemented in Java using **Encapsulatio
 
 ## 🏗️ Project Structure
 
-EmployeeManagementSystem/ │── src/ │ ├── Employee.java # Base class (Encapsulation) │ ├── FullTimeEmployee.java # Inherits from Employee │ ├── PartTimeEmployee.java # Inherits from Employee │ ├── Company.java # Manages employees │ ├── Main.java # Runs the program │── README.md # Project documentation │── .gitignore # Ignore compiled files │── EmployeeManagementSystem.iml # IntelliJ project file (optional)
+EmployeeManagementSystem/
+    │── src/ # Source code
+        | ├── Employee.java # Base class (Encapsulation)
+        │ ├── FullTimeEmployee.java # Inherits from Employee
+        │ ├── PartTimeEmployee.java # Inherits from Employee
+        │ ├── Company.java # Manages employees
+        │ ├── Main.java # Runs the program
+    │── README.md # Project documentation
+    │── .gitignore # Ignore compiled files
 
 ---
 
