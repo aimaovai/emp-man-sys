@@ -16,6 +16,7 @@ A simple **Employee Management System** implemented in Java using **Encapsulatio
 
 ## 🏗️ Project Structure
 
+```text
 EmployeeManagementSystem/
     │── src/ # Source code
         | ├── Employee.java # Base class (Encapsulation)
@@ -25,6 +26,7 @@ EmployeeManagementSystem/
         │ ├── Main.java # Runs the program
     │── README.md # Project documentation
     │── .gitignore # Ignore compiled files
+```
 
 ---
 
